@@ -1,0 +1,1079 @@
+{
+ "schema": "mapki-brand-v2",
+ "slug": "anytime-fitness",
+ "name": "Anytime Fitness",
+ "franchiseFee": 42500,
+ "totalInvestmentMin": 539329,
+ "totalInvestmentMax": 905482,
+ "royaltyPercent": "$842/mo Monthly Fee (may convert to up to 8% of Gross Revenue)",
+ "adFee": "$900/mo General Advertising Fund",
+ "totalUnits": 2282,
+ "openLocations": 2282,
+ "corporateCity": "Woodbury",
+ "corporateState": "MN",
+ "corporateZip": "55125",
+ "corporateAddress": "111 Weir Drive, Woodbury, MN 55125",
+ "description": "Anytime Fitness is a 24-hour fitness center franchise headquartered in Woodbury, Minnesota, offering members convenient access to cardio and strength equipment, personal training, group training, nutrition coaching, and recovery services under the Anytime Fitness brand. Franchisees operate 4,000 to 7,000 square-foot centers in a protected territory of up to a 3-mile radius, with the system totaling 2,282 outlets at year-end 2025 across all 50 states. The 2026 FDD's Item 19 reports average 2025 revenue of $446,814 across 1,683 franchised centers using AF Coaching, with a fixed-fee structure of $842 monthly fee plus $900 monthly advertising and $799 monthly technology fees.",
+ "category": "Fitness & Health",
+ "websiteUrl": "https://franchise.anytimefitness.com/",
+ "logoUrl": "https://cdn.prod.website-files.com/657cf763b1ac103f4c447a12/658927984c3ee93f910bdc0e_ATF-Logo.svg",
+ "ogImage": "https://cdn.prod.website-files.com/657cf763b1ac103f4c447a12/658927984c3ee93f910bdc0e_ATF-Logo.svg",
+ "yearFounded": 2002,
+ "fddYear": 2026,
+ "territoryDescription": "Protected (not exclusive): circle around the center with radius up to 3 miles and population up to 30,000. Protected territories may overlap; the franchisor may operate, franchise, or license competing outlets elsewhere, and the franchisee may face competition from other franchisees, company outlets, or other channels/brands the franchisor controls.",
+ "item12": "protected, non-exclusive",
+ "item20PinCount": 15,
+ "item20_fdd_count": 2282,
+ "item20_reconciliation": "FDD Item 20 Table No. 1 (pp.60-61): 2,282 total outlets as of 12/31/2025 (2,271 franchised + 11 company-owned). The 15 pins below are FEATURED locations - real Exhibit C-1 franchisee cities geocoded for this report - not a complete map of all outlets.",
+ "hq_source": "FDD Item 1, p.1",
+ "risk_score": 42,
+ "risk_score_method": "base 15 +6 litigation (5 Item-3 matters) +10 capital intensity (ceiling $905,482) +6 fixed fee load ($2,541/mo) +4 non-exclusive territory +4 closure rate (~3.7%) +2 renewal friction (60 non-renewals in 2025) +3 system contraction (net -47 franchised, 2023-2025) -6 Item 19 strength (n=1,683, 74% coverage) -2 audited financials = 42/100",
+ "risk_factors": [
+  {
+   "factor": "Capital intensity",
+   "detail": "Investment range tops $905,482 with a $42,500 nonrefundable initial franchise fee and no franchisor financing (FDD Item 7, p.19).",
+   "weight": 10
+  },
+  {
+   "factor": "Fixed fee load",
+   "detail": "$842/mo Monthly Fee + $900/mo advertising + $799/mo technology = $2,541/mo before local marketing spend (FDD Item 6, pp.11-12).",
+   "weight": 6
+  },
+  {
+   "factor": "Litigation exposure",
+   "detail": "Three Spain (Anytime Fitness Iberia) franchisee disputes - two pending, one dismissed and on appeal - plus two settled Bar Method affiliate regulatory matters (FDD Item 3, pp.7-8).",
+   "weight": 6
+  },
+  {
+   "factor": "Non-exclusive territory",
+   "detail": "Protected circle only - up to 3 miles, 30,000 population; protected territories may overlap and competition from other franchisees or franchisor channels is permitted (FDD Item 12, pp.44-45).",
+   "weight": 4
+  },
+  {
+   "factor": "Outlet closures",
+   "detail": "78 terminations and 6 other closures in 2025 - about 3.7% of the franchised base - plus 60 non-renewals (FDD Item 20, Table 3).",
+   "weight": 4
+  },
+  {
+   "factor": "System contraction",
+   "detail": "Franchised count fell by 47 net outlets from 2023 to 2025, from 2,318 to 2,271 (FDD Item 20, Table 1, pp.60-61).",
+   "weight": 3
+  },
+  {
+   "factor": "Renewal friction",
+   "detail": "Renewal requires a new (possibly materially different) agreement, compliance with then-current standards, a general release, and a $7,500 renewal fee (FDD Item 17, p.51).",
+   "weight": 2
+  },
+  {
+   "factor": "Item 19 strength (reduction)",
+   "detail": "Item 19 covers 1,683 franchised centers - 74% of the system - with average total revenue of $446,814 and disclosed company-owned EBITDA of $149,620 at a 28.67% margin (FDD Item 19, pp.54-59).",
+   "weight": -6
+  },
+  {
+   "factor": "Audited financials (reduction)",
+   "detail": "Audited financial statements of affiliate SEB Franchising Guarantor LLC are attached at Exhibit D (FDD Item 21, p.69).",
+   "weight": -2
+  }
+ ],
+ "pins": [
+  {
+   "city": "Woodbury",
+   "state": "MN",
+   "lat": 44.9467345,
+   "lon": -92.9625758,
+   "label": "Anytime Fitness - Woodbury MN (franchisor HQ)",
+   "hq": true
+  },
+  {
+   "city": "El Paso",
+   "state": "TX",
+   "lat": 31.7601001,
+   "lon": -106.4870476,
+   "label": "Anytime Fitness - El Paso, TX",
+   "hq": false
+  },
+  {
+   "city": "San Diego",
+   "state": "CA",
+   "lat": 32.7174202,
+   "lon": -117.162772,
+   "label": "Anytime Fitness - San Diego, CA",
+   "hq": false
+  },
+  {
+   "city": "Pensacola",
+   "state": "FL",
+   "lat": 30.421309,
+   "lon": -87.2169149,
+   "label": "Anytime Fitness - Pensacola, FL",
+   "hq": false
+  },
+  {
+   "city": "Duluth",
+   "state": "MN",
+   "lat": 46.7838287,
+   "lon": -92.1052679,
+   "label": "Anytime Fitness - Duluth, MN",
+   "hq": false
+  },
+  {
+   "city": "New Orleans",
+   "state": "LA",
+   "lat": 29.9561422,
+   "lon": -90.0733934,
+   "label": "Anytime Fitness - New Orleans, LA",
+   "hq": false
+  },
+  {
+   "city": "Madison",
+   "state": "WI",
+   "lat": 43.07469,
+   "lon": -89.3841663,
+   "label": "Anytime Fitness - Madison, WI",
+   "hq": false
+  },
+  {
+   "city": "Indianapolis",
+   "state": "IN",
+   "lat": 39.7683331,
+   "lon": -86.1583502,
+   "label": "Anytime Fitness - Indianapolis, IN",
+   "hq": false
+  },
+  {
+   "city": "Chicago",
+   "state": "IL",
+   "lat": 41.8755616,
+   "lon": -87.6244212,
+   "label": "Anytime Fitness - Chicago, IL",
+   "hq": false
+  },
+  {
+   "city": "Spokane",
+   "state": "WA",
+   "lat": 47.6571934,
+   "lon": -117.42351,
+   "label": "Anytime Fitness - Spokane, WA",
+   "hq": false
+  },
+  {
+   "city": "Livonia",
+   "state": "MI",
+   "lat": 42.36837,
+   "lon": -83.3527097,
+   "label": "Anytime Fitness - Livonia, MI",
+   "hq": false
+  },
+  {
+   "city": "Cleveland",
+   "state": "OH",
+   "lat": 41.4996574,
+   "lon": -81.6936772,
+   "label": "Anytime Fitness - Cleveland, OH",
+   "hq": false
+  },
+  {
+   "city": "Pittsburgh",
+   "state": "PA",
+   "lat": 40.4406968,
+   "lon": -80.0025666,
+   "label": "Anytime Fitness - Pittsburgh, PA",
+   "hq": false
+  },
+  {
+   "city": "Phoenix",
+   "state": "AZ",
+   "lat": 33.4484367,
+   "lon": -112.074141,
+   "label": "Anytime Fitness - Phoenix, AZ",
+   "hq": false
+  },
+  {
+   "city": "Atlanta",
+   "state": "GA",
+   "lat": 33.7544657,
+   "lon": -84.3898151,
+   "label": "Anytime Fitness - Atlanta, GA",
+   "hq": false
+  }
+ ],
+ "breakdown": {
+  "absolute_cited": 155,
+  "theoretical": 8,
+  "matching": 8,
+  "total": 171
+ },
+ "fields": {
+  "franchisor_legal_name": {
+   "value": "Anytime Fitness Franchisor LLC",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "franchisor_entity_type": {
+   "value": "Delaware limited liability company",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "franchisor_formed_date": {
+   "value": "2021-10-25",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_address": {
+   "value": "111 Weir Drive, Woodbury, MN 55125",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_city": {
+   "value": "Woodbury",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_state": {
+   "value": "MN",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_zip": {
+   "value": "55125",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_phone": {
+   "value": "(651) 438-5000",
+   "type": "absolute",
+   "item": "FDD Item 19, p.59"
+  },
+  "dba_name": {
+   "value": "Anytime Fitness",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "operates_other_concepts": {
+   "value": "No - franchising only the Anytime Fitness brand; does not do business under any other names",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "franchisor_formed_year": {
+   "value": 2021,
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "brand_franchising_since_original": {
+   "value": "2002-10",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2 - predecessor AFLLC offered Anytime Fitness franchises from October 2002 to November 2021"
+  },
+  "franchising_began_current_entity": {
+   "value": "2021-11",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "parent_name": {
+   "value": "Purpose Brands Holdings, LLC",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "parent_relationship_date": {
+   "value": "2024-04-02",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 - became an indirect, wholly owned subsidiary on April 2, 2024"
+  },
+  "parent_ceo": {
+   "value": "Thomas Leverton",
+   "type": "absolute",
+   "item": "FDD Item 2, p.5"
+  },
+  "direct_parent": {
+   "value": "SEB Systems LLC",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "manager": {
+   "value": "Anytime Fitness, LLC (AFLLC) acts as our manager",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "predecessor_name": {
+   "value": "Anytime Fitness, LLC (AFLLC)",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "predecessor_franchised_span": {
+   "value": "October 2002 to November 2021 (U.S.); operated Anytime Fitness centers since January 2005",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "securitization_transaction": {
+   "value": "November 2021 - AFLLC transferred all existing U.S. franchise, area development and related agreements, plus U.S. trademarks, to the franchisor",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "affiliate_provision": {
+   "value": "PV Distribution LLC (ProVision) - IT services, technology, security systems",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "affiliate_seb_distribution": {
+   "value": "SEB Distribution SPV LLC - sells Anytime Fitness branded and other products for use and retail sale",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "affiliate_healthy_contributions": {
+   "value": "Healthy Contributions SPV LLC - billing processing for fitness incentive programs",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "business_description": {
+   "value": "Fitness centers designed to operate 24 hours a day with convenient access and coaching services: personal training, group training, nutrition, and coaching and recovery products and services",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "sibling_brands": {
+   "value": "The Bar Method, Basecamp Fitness, Orangetheory, Waxing the City (affiliated franchise brands)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.8"
+  },
+  "fdd_issue_date": {
+   "value": "2026-03-31",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "ceo_name": {
+   "value": "Thomas Leverton",
+   "type": "absolute",
+   "item": "FDD Item 2, p.5"
+  },
+  "ceo_background": {
+   "value": "CEO of parent companies since Nov 2024; partner at Pritzker Private Capital Feb 2020-Nov 2024",
+   "type": "absolute",
+   "item": "FDD Item 2, p.5"
+  },
+  "founder_1": {
+   "value": "Charles Runyon - co-founder; CEO Oct 2021-Nov 2024; Director of predecessor AFLLC since Feb 2002",
+   "type": "absolute",
+   "item": "FDD Item 2, p.5"
+  },
+  "founder_2": {
+   "value": "Dave Mortensen - co-founder; President Oct 2021-Nov 2024; President of AFLLC Jan 2013-Nov 2024",
+   "type": "absolute",
+   "item": "FDD Item 2, p.5"
+  },
+  "litigation_count": {
+   "value": 5,
+   "type": "absolute",
+   "item": "FDD Item 3, pp.7-8 - 3 Spain (AFI) matters + 2 Bar Method affiliate matters disclosed"
+  },
+  "litigation_spain_1": {
+   "value": "Anytime Fitness Iberia, S.L. v. Sant Cugat Fitness et al. (Barcelona, filed 2024-07-19) - AFI sued 2 former franchisees for early termination/non-compete violations; defendants counterclaimed (support, marketing fund, sales process); in mediation",
+   "type": "absolute",
+   "item": "FDD Item 3, p.7"
+  },
+  "litigation_spain_2": {
+   "value": "Canadas Fitness, S.L. v. Anytime Fitness Iberia, SLU (Barcelona, filed 2021-11-24) - former franchisee alleged breach/untruthful disclosures, sought EUR 1.1M; dismissed after trial 2023-11-27; appeal filed 2024-01-10; AFI opposed 2024-02-06",
+   "type": "absolute",
+   "item": "FDD Item 3, p.7"
+  },
+  "litigation_spain_3": {
+   "value": "Anytime Fitness Iberia, S.L. v. Health & Performance S.L. et al. (Barcelona, filed 2025-01-31) - AFI sued former franchisee/guarantors re early termination/non-compete/member data; counterclaim EUR 40,000 alleges nullity of non-compete",
+   "type": "absolute",
+   "item": "FDD Item 3, p.7"
+  },
+  "litigation_barmethod_il": {
+   "value": "Illinois v. The Bar Method Franchising Inc. (Case No. 2009CH 0125, filed 2009-02-09) - consent decree; $5,000 penalties; rescission offered (declined)",
+   "type": "absolute",
+   "item": "FDD Item 3, p.7"
+  },
+  "litigation_barmethod_ny": {
+   "value": "NY AG investigation of The Bar Method Inc. (Assurance No. 08-108, 2009-04-02) - assurance of discontinuance; $2,500 paid; rescission offered (declined)",
+   "type": "absolute",
+   "item": "FDD Item 3, p.8"
+  },
+  "bankruptcy_franchisor": {
+   "value": "none disclosed for the franchisor",
+   "type": "absolute",
+   "item": "FDD Item 4, p.8"
+  },
+  "bankruptcy_related": {
+   "value": "Thomas Leverton (parent CEO) was CEO of CEC Entertainment, Inc. (Jul 2014-Feb 2020); CEC filed Chapter 11 on 2020-06-24 (Case No. 20-33163, S.D. Tex.); plan confirmed 2020-12-15; discharged 2020-12-30",
+   "type": "absolute",
+   "item": "FDD Item 4, p.8"
+  },
+  "initial_franchise_fee_standard": {
+   "value": 42500,
+   "type": "absolute",
+   "item": "FDD Item 5, p.8 - standard initial franchise fee for 1 Anytime Fitness center"
+  },
+  "initial_fee_veteran": {
+   "value": 38250,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - veteran pricing (current/ honorably-discharged U.S. military), 1 location"
+  },
+  "initial_fee_existing_franchisee": {
+   "value": 37500,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - existing franchisee pricing, 1 location"
+  },
+  "initial_fee_club_purple": {
+   "value": 27500,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - Club Purple existing franchisee pricing, 1 location"
+  },
+  "initial_fee_club_platinum": {
+   "value": 22500,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - Club Platinum existing franchisee pricing, 1 location"
+  },
+  "initial_fee_refundable": {
+   "value": "No - all portions of the initial franchise fee (and Development Fee) are nonrefundable",
+   "type": "absolute",
+   "item": "FDD Item 5, p.9"
+  },
+  "initial_fee_fy2025_range": {
+   "value": "22500-42500",
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - initial fees paid in FY2025 ranged $22,500 to $42,500"
+  },
+  "area_development_fee_2": {
+   "value": 75000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - new franchisee development fee for 2 locations"
+  },
+  "area_development_fee_3": {
+   "value": 97500,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - new franchisee development fee for 3 locations"
+  },
+  "area_development_fee_4": {
+   "value": 130000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - new franchisee development fee for 4 locations"
+  },
+  "area_development_fee_5plus_each": {
+   "value": 27500,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - new franchisee, each additional location beyond 4"
+  },
+  "technology_system_package": {
+   "value": "37857-45462",
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - ProVision technology system package incl. installation (hardware, software, networking, door readers, security/CCTV)"
+  },
+  "af_coaching_training_existing": {
+   "value": 250,
+   "type": "absolute",
+   "item": "FDD Item 5, p.10 - existing franchisee AF Coaching training, per person, virtual"
+  },
+  "compliance_drawing_renewal_transfer": {
+   "value": 250,
+   "type": "absolute",
+   "item": "FDD Item 5, p.10 - renewal/transfer Compliance Drawing (credited against one Monthly Fee if renovation completed by due date)"
+  },
+  "grand_opening_spend": {
+   "value": "11000-23000",
+   "type": "absolute",
+   "item": "FDD Item 5, p.10 - Grand Opening and Ramp Up Program minimum spend by market Tier"
+  },
+  "open_deadline_months": {
+   "value": 12,
+   "type": "absolute",
+   "item": "FDD Item 5, p.9 - 12 months from signing to open and begin operating"
+  },
+  "monthly_fee": {
+   "value": "$842 per month per center (fixed; subject to annual CPI increase; includes AF Coaching fee; may be replaced with up to 8% of Gross Revenue royalty)",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.11-12"
+  },
+  "advertising_fund_fee": {
+   "value": "$900 per month per center (may increase on 60 days notice, capped at the greater of $900/mo or 3% of Gross Revenue)",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.11-12"
+  },
+  "base_technology_fee": {
+   "value": "$799 per month per center (subject to annual 10% compounded increase)",
+   "type": "absolute",
+   "item": "FDD Item 6, p.12"
+  },
+  "af_coaching_fees_1_3": {
+   "value": "$149 per center per month (1-3 centers, Franchise Agreements dated 2019-03-28 or earlier)",
+   "type": "absolute",
+   "item": "FDD Item 6, p.12"
+  },
+  "on_site_relaunch_training": {
+   "value": 4000,
+   "type": "absolute",
+   "item": "FDD Item 6, p.12 - on-site relaunch training or additional assistance, 2-6 days, travel included"
+  },
+  "no_show_fee": {
+   "value": 750,
+   "type": "absolute",
+   "item": "FDD Item 6, p.12 - current no-show fee (up to $1,500 or actual rescheduling costs)"
+  },
+  "local_marketing_spend": {
+   "value": "$600 / $800 / $1,000 per month by market Tier (after Grand Opening and Ramp Up)",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.14-15"
+  },
+  "club_enhancement_program": {
+   "value": "$1,000 per month recommended set-aside for remodel/re-equipment",
+   "type": "absolute",
+   "item": "FDD Item 6, p.14"
+  },
+  "renewal_fee": {
+   "value": 7500,
+   "type": "absolute",
+   "item": "FDD Item 6, p.15"
+  },
+  "transfer_fee": {
+   "value": "$9,999 or $25,000",
+   "type": "absolute",
+   "item": "FDD Item 6, p.15"
+  },
+  "interest_overdue": {
+   "value": "1.5% per month (lesser of)",
+   "type": "absolute",
+   "item": "FDD Item 6, p.16"
+  },
+  "conference_fee": {
+   "value": 499,
+   "type": "absolute",
+   "item": "FDD Item 6, p.14 - current early-registration conference fee"
+  },
+  "continuing_engagement_credit": {
+   "value": "$2,400 per year for failing to complete 1,200 engagement credits",
+   "type": "absolute",
+   "item": "FDD Item 6, p.14"
+  },
+  "investment_total_low": {
+   "value": 539329,
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "investment_total_high": {
+   "value": 905482,
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "center_size_sqft": {
+   "value": "4000-7000",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19 note 1 - lease assumptions for a vanilla-shell/as-is space"
+  },
+  "leasehold_improvements": {
+   "value": "170280-417300",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "rent_3mo_security": {
+   "value": "33500-58700",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "architect_design": {
+   "value": "12825-26075",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "fitness_equipment": {
+   "value": "139873-157936",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "technology_equipment": {
+   "value": "37857-45462",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "signage": {
+   "value": "14250-36900",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "furniture_fixtures": {
+   "value": "15200-18330",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "additional_funds_3mo": {
+   "value": "47394-49194",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "pre_sale_advertising": {
+   "value": "11000-23000",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "travel_training": {
+   "value": "1500-2425",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19"
+  },
+  "construction_management": {
+   "value": "0-12500",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19 - optional Construction Management Services (may become mandatory)"
+  },
+  "financing_available": {
+   "value": "No - franchisor does not offer financing for any part of the initial investment",
+   "type": "absolute",
+   "item": "FDD Item 7, p.19 note 1"
+  },
+  "required_vendor_provision": {
+   "value": "Yes - ProVision technology system and installation must be purchased from affiliate",
+   "type": "absolute",
+   "item": "FDD Item 8, p.21 / Item 5, p.9"
+  },
+  "healthy_contributions_agreement": {
+   "value": "Franchisee signs Healthy Contributions Agreement (Exhibit H) for fitness incentive programs",
+   "type": "absolute",
+   "item": "FDD Item 6, p.13"
+  },
+  "fy2025_vendor_revenue": {
+   "value": 35601110,
+   "type": "absolute",
+   "item": "FDD Item 8, p.24 - revenue received in FY2025 from purchase/manufacture/use by franchisees"
+  },
+  "principal_training_location": {
+   "value": "Woodbury, Minnesota (or other designated place)",
+   "type": "absolute",
+   "item": "FDD Item 7, p.20 note 3"
+  },
+  "site_opening_deadline": {
+   "value": "12 months from signing",
+   "type": "absolute",
+   "item": "FDD Item 5, p.9"
+  },
+  "monthly_fee_waiver_preopen": {
+   "value": "Monthly Fee waived until open while actively working with real estate team",
+   "type": "absolute",
+   "item": "FDD Item 5, p.9"
+  },
+  "grand_opening_program": {
+   "value": "$11,000-$23,000 spend by market Tier; franchisor may execute the program on your behalf",
+   "type": "absolute",
+   "item": "FDD Item 5, p.10"
+  },
+  "conference_frequency": {
+   "value": "every other year (conference cost estimated $1,500; Item 19 shows $750 as half)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.58 note 7"
+  },
+  "exclusive_territory": {
+   "value": "No",
+   "type": "absolute",
+   "item": "FDD Item 12, p.44"
+  },
+  "protected_territory": {
+   "value": "Yes - circle drawn around your location; radius no larger than 3 miles; population no more than 30,000",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.44-45"
+  },
+  "protected_territory_overlap": {
+   "value": "Protected territories may overlap; franchisor will not approve opening/relocation into another center's protected territory",
+   "type": "absolute",
+   "item": "FDD Item 12, p.45"
+  },
+  "territory_modification": {
+   "value": "Cannot be changed unilaterally during term; no minimum sales quotas required to retain",
+   "type": "absolute",
+   "item": "FDD Item 12, p.45"
+  },
+  "territory_competition": {
+   "value": "Franchisee may face competition from other franchisees, company outlets, or other channels/brands controlled by franchisor",
+   "type": "absolute",
+   "item": "FDD Item 12, p.44"
+  },
+  "relocation_terms": {
+   "value": "60 days prior notice + consent required; new location must be within protected territory",
+   "type": "absolute",
+   "item": "FDD Item 12, p.46"
+  },
+  "area_development_territory": {
+   "value": "Protected development territory described in ADA Rider; expires at earliest of ADA expiry, development schedule completion, or final center territory determination",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.44-45"
+  },
+  "trademark_registered": {
+   "value": "Yes - ANYTIME FITNESS marks registered on the USPTO Principal Register (Reg. Nos. 2,814,114 (2004); 4,587,873 (2014); plus marks 7,014,079 (2023), 7,732,579 (2025))",
+   "type": "absolute",
+   "item": "FDD Item 13, p.47"
+  },
+  "patents_material": {
+   "value": "none",
+   "type": "absolute",
+   "item": "FDD Item 14, p.48 - no patents or pending applications material to the franchise"
+  },
+  "owner_personal_supervision": {
+   "value": "Not required, but recommended; a designated Principal Operator must complete training",
+   "type": "absolute",
+   "item": "FDD Item 15, p.49"
+  },
+  "personal_guaranty": {
+   "value": "Yes - each individual owner (and spouse) signs a personal guaranty of all franchisee obligations",
+   "type": "absolute",
+   "item": "FDD Item 15, p.49"
+  },
+  "approved_products_only": {
+   "value": "Franchisee may offer and sell only franchisor-approved products/services at the approved location",
+   "type": "absolute",
+   "item": "FDD Item 16, p.50"
+  },
+  "staffing_minimum": {
+   "value": "Center must be staffed a minimum amount of hours per week; AF Coaching required element",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 / Item 16, p.50"
+  },
+  "online_sales_restricted": {
+   "value": "No offering products/services via the Internet (incl. live-streamed or recorded classes) except as approved",
+   "type": "absolute",
+   "item": "FDD Item 16, p.50"
+  },
+  "initial_term_years": {
+   "value": 6,
+   "type": "absolute",
+   "item": "FDD Item 17, p.51"
+  },
+  "renewal_term_years": {
+   "value": 5,
+   "type": "absolute",
+   "item": "FDD Item 17, p.51 - one additional 5-year period if in good standing"
+  },
+  "renewal_conditions": {
+   "value": "Written notice; sign new (possibly materially different) agreement; update location to current standards; compliance; general release; renewal fee; right to possession; refresher training",
+   "type": "absolute",
+   "item": "FDD Item 17, p.51"
+  },
+  "area_dev_renewal": {
+   "value": "No right to renew or extend the Area Development Agreement",
+   "type": "absolute",
+   "item": "FDD Item 17, p.51"
+  },
+  "post_term_noncompete": {
+   "value": "2 years in Protected Territory or within 10-mile radius of any Anytime Fitness center (5 miles in metros >50,000 pop)",
+   "type": "absolute",
+   "item": "FDD Item 17, pp.52-53"
+  },
+  "interm_noncompete": {
+   "value": "During term: no involvement in any fitness center/gym/personal training business (with narrow pre-opening employment exception)",
+   "type": "absolute",
+   "item": "FDD Item 17, pp.52-53"
+  },
+  "public_figures": {
+   "value": "none - franchisor does not use any public figure to promote the franchise",
+   "type": "absolute",
+   "item": "FDD Item 18, p.54"
+  },
+  "item19_sections": {
+   "value": 3,
+   "type": "absolute",
+   "item": "FDD Item 19, p.54 - Sec I: franchised w/ AF Coaching; Sec II: Coaching Dashboard; Sec III: company-owned P&L"
+  },
+  "item19_period": {
+   "value": "12 months ended February 28, 2026",
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec1_n": {
+   "value": 1683,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55 - franchised centers open/operating the entire 12-month period using AF Coaching (of 2,269 franchised as of 2026-02-28; 66 closed during period excluded)"
+  },
+  "item19_sec1_avg_total_revenue": {
+   "value": 446814,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55 - average total revenue, all 1,683 Centers"
+  },
+  "item19_sec1_median_total_revenue": {
+   "value": 398982,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec1_avg_membership_revenue": {
+   "value": 341503,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec1_avg_coaching_revenue": {
+   "value": 73710,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec1_avg_pay_per_visit": {
+   "value": 31976,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec1_at_above_average": {
+   "value": "663 of 1,683 (39%)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec1_highest": {
+   "value": 2048737,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec1_lowest": {
+   "value": 90337,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec1_avg_monthly_members": {
+   "value": 660,
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_sec2_n": {
+   "value": 215,
+   "type": "absolute",
+   "item": "FDD Item 19, p.56 - franchised centers using Coaching Dashboard >=9 months"
+  },
+  "item19_sec2_avg_total_revenue": {
+   "value": 561291,
+   "type": "absolute",
+   "item": "FDD Item 19, p.56"
+  },
+  "item19_sec2_median_total_revenue": {
+   "value": 482712,
+   "type": "absolute",
+   "item": "FDD Item 19, p.56"
+  },
+  "item19_sec3_n": {
+   "value": 11,
+   "type": "absolute",
+   "item": "FDD Item 19, p.57 - company-owned centers open/operating full period (as of 2025-12-31)"
+  },
+  "item19_sec3_avg_revenue": {
+   "value": 521854,
+   "type": "absolute",
+   "item": "FDD Item 19, p.58 - average total revenue, 11 company centers"
+  },
+  "item19_sec3_avg_net_operating_income": {
+   "value": 196183,
+   "type": "absolute",
+   "item": "FDD Item 19, p.58 - before manager salary, interest, taxes, depreciation, amortization (37.59% margin)"
+  },
+  "item19_sec3_avg_ebitda": {
+   "value": 149620,
+   "type": "absolute",
+   "item": "FDD Item 19, p.58 - after manager base salary $46,563 (28.67% EBITDA margin)"
+  },
+  "item19_sec3_expense_note": {
+   "value": "Expenses adjusted to reflect estimated costs a franchisee would incur (incl. franchise royalties as Monthly Fees, $10,800 advertising fund)",
+   "type": "absolute",
+   "item": "FDD Item 19, pp.58-59"
+  },
+  "item19_coverage": {
+   "value": "74% of system (1,683 of 2,269 franchised centers)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.55"
+  },
+  "item19_disclaimer": {
+   "value": "Some outlets have sold these amounts. Your individual results may differ. There is no assurance you'll sell as much.",
+   "type": "absolute",
+   "item": "FDD Item 19, pp.55,57"
+  },
+  "item19_contact": {
+   "value": "General Counsel James Goniea, 111 Weir Drive, Woodbury, MN 55125, (651) 438-5000 - for substantiation of Item 19",
+   "type": "absolute",
+   "item": "FDD Item 19, p.59"
+  },
+  "franchised_start_2023": {
+   "value": 2318,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.60"
+  },
+  "franchised_end_2023": {
+   "value": 2298,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.60"
+  },
+  "franchised_end_2024": {
+   "value": 2290,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.60"
+  },
+  "franchised_end_2025": {
+   "value": 2271,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.60"
+  },
+  "company_owned_end_2025": {
+   "value": 11,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.60"
+  },
+  "total_outlets_end_2025": {
+   "value": 2282,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.61"
+  },
+  "net_change_2025": {
+   "value": -19,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.60-61"
+  },
+  "net_change_3yr": {
+   "value": -47,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, pp.60-61 - 2,318 to 2,271 franchised, 2023-2025"
+  },
+  "outlets_opened_2025": {
+   "value": 106,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 3, pp.63-66 (parsed)"
+  },
+  "terminations_2025": {
+   "value": 78,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 3, pp.63-66 (parsed)"
+  },
+  "nonrenewals_2025": {
+   "value": 60,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 3, pp.63-66 (parsed)"
+  },
+  "ceased_other_2025": {
+   "value": 6,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 3, pp.63-66 (parsed)"
+  },
+  "transfers_2025": {
+   "value": 169,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 2, p.62"
+  },
+  "signed_not_opened_2025": {
+   "value": 154,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 5, p.68 - franchise agreements signed as of 12/31/2025 but outlet not opened"
+  },
+  "projected_new_franchised": {
+   "value": 38,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 5, p.68 - projected new franchised outlets next fiscal year"
+  },
+  "projected_new_company": {
+   "value": 2,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 5, p.68"
+  },
+  "former_franchisees_list": {
+   "value": "239 franchisees representing 319 franchises on the Exhibit C-3 left-the-system list",
+   "type": "absolute",
+   "item": "FDD Item 20, p.68"
+  },
+  "top_outlet_states_2025": {
+   "value": "Texas, California, Minnesota, Florida, Louisiana among the largest state systems (FDD Table 3)",
+   "type": "absolute",
+   "item": "FDD Item 20, Table 3, pp.63-66"
+  },
+  "audited_financials": {
+   "value": "Yes - audited financial statements of affiliate SEB Franchising Guarantor LLC attached at Exhibit D",
+   "type": "absolute",
+   "item": "FDD Item 21, p.69"
+  },
+  "financial_statements_date": {
+   "value": "available to be issued 2026-03-25",
+   "type": "absolute",
+   "item": "FDD Exhibit D, p.61 (financial statement notes)"
+  },
+  "risk_score": {
+   "value": 42,
+   "type": "theoretical",
+   "item": "THEORETICAL - method: base 15 +6 litigation (5 Item-3 matters) +10 capital intensity (ceiling $905,482) +6 fixed fee load ($2,541/mo) +4 non-exclusive territory +4 closure rate (~3.7%) +2 renewal friction (60 non-renewals) +3 system contraction (net -47, 2023-2025) -6 Item 19 strength (n=1,683, 74% coverage) -2 audited financials = 42/100"
+  },
+  "risk_assessment": {
+   "value": "MODERATE-LOW",
+   "type": "theoretical",
+   "item": "THEORETICAL - method: 42/100: mature system (2,282 outlets) with broad Item 19 reporting, tempered by high capital intensity, heavy fixed-fee load, multi-matter litigation, and 3 years of net unit contraction"
+  },
+  "illustrative_monthly_fixed_fees": {
+   "value": 2541,
+   "type": "theoretical",
+   "item": "THEORETICAL - method: $842 Monthly Fee + $900 General Advertising + $799 Base Technology = $2,541/mo fixed, illustrative only"
+  },
+  "closure_rate_2025": {
+   "value": "3.7%",
+   "type": "theoretical",
+   "item": "THEORETICAL - method: (78 terminations + 6 ceased-other) / 2,290 start-of-year franchised; illustrative only"
+  },
+  "investment_midpoint": {
+   "value": 722406,
+   "type": "theoretical",
+   "item": "THEORETICAL - method: midpoint of $539,329-$905,482 Item 7 range; illustrative only"
+  },
+  "franchise_fee_share_of_investment_min": {
+   "value": "7.9%",
+   "type": "theoretical",
+   "item": "THEORETICAL - method: $42,500 / $539,329; illustrative only"
+  },
+  "marketing_gap_note": {
+   "value": "insufficient-data",
+   "type": "theoretical",
+   "item": "THEORETICAL - method: FDD does not disclose system-wide marketing spend effectiveness; cannot assess ROAS from FDD alone"
+  },
+  "market_concentration_assessment": {
+   "value": "insufficient-data",
+   "type": "theoretical",
+   "item": "THEORETICAL - method: FDD does not disclose per-market outlet density; cannot assess saturation from FDD alone"
+  },
+  "match_capital": {
+   "value": "High capital: $539K-$906K start-up range; $42.5K initial fee (nonrefundable); no franchisor financing",
+   "type": "matching",
+   "item": "MATCHING - method: fit inputs: Item 5 + Item 7"
+  },
+  "match_experience": {
+   "value": "No fitness industry experience required by the FDD; Principal Operator must complete franchisor training",
+   "type": "matching",
+   "item": "MATCHING - method: fit inputs: Item 15 + Item 7 note 3"
+  },
+  "match_operational": {
+   "value": "Owner-operator recommended but not required; designated Principal Operator on premises; mandatory AF Coaching offering; min staffed hours",
+   "type": "matching",
+   "item": "MATCHING - method: fit inputs: Item 15 + Item 16"
+  },
+  "match_lifestyle": {
+   "value": "24-hour access model with reciprocal member access across centers; centers may operate with limited staffed hours via answering service",
+   "type": "matching",
+   "item": "MATCHING - method: fit inputs: Item 1, p.1"
+  },
+  "match_risk_appetite": {
+   "value": "Moderate: ~$30.5K+/yr fixed fee load, $540K+ capital commitment, multi-matter litigation, shrinking unit count offset by strong Item 19 reporting",
+   "type": "matching",
+   "item": "MATCHING - method: risk inputs: Items 3, 6, 7, 19, 20"
+  },
+  "match_location": {
+   "value": "4,000-7,000 sq ft vanilla-shell/as-is retail space; landlord TI allowance common (avg $27.23/sq ft in 2025)",
+   "type": "matching",
+   "item": "MATCHING - method: fit inputs: Item 7 note 4"
+  },
+  "match_timeline": {
+   "value": "12 months from signing to open; Grand Opening + Ramp Up $11K-$23K in 60 days around opening",
+   "type": "matching",
+   "item": "MATCHING - method: fit inputs: Item 5 pp.9-10"
+  },
+  "match_territory": {
+   "value": "Protected (not exclusive) 3-mile / 30,000-population circle; non-compete 2 years post-term within 10 miles",
+   "type": "matching",
+   "item": "MATCHING - method: fit inputs: Item 12 + Item 17"
+  }
+ },
+ "extractor": "anytime-fitness-build (MapKI next-20 wave, wave 2, 2026-09-14)",
+ "extraction_timestamp_utc": "2026-09-14T17:41:07.235069+00:00",
+ "fdd_filename": "anytime-fitness.pdf",
+ "fdd_sha256": "0d1ddc0a61ed9d9f4cf29948c3678abc939677519157aba7b1c3f4b8a8f143e2",
+ "live_url": "https://bennett-maxwell.github.io/anytime-fitness/",
+ "netWorthRequirement": "not disclosed in FDD",
+ "netWorthRequirementNote": "grep over source FDD text for 'net worth' returns 1 hit - an Item 21 clause about the franchisor's capital account, not a franchisee requirement; no minimum net worth is stated in the FDD",
+ "liquidCapitalRequirement": "not disclosed in FDD",
+ "liquidCapitalRequirementNote": "grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital is stated in the FDD",
+ "pinVerification": {
+  "method": "D4-08 per-pin geocode re-run (independent second Nominatim forward geocode of each pin label, UA FKI-MapKI/1.0; haversine vs plotted coordinate, 50 km tolerance)",
+  "run_utc": "2026-09-14T17:39:04Z",
+  "passed": 15,
+  "total": 15
+ },
+ "pinsUpdatedAt": "2026-09-14T17:39:04Z"
+}
